@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**sahilbisla01/sahilbisla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi there, I'm Sahil Bisla 👋</h1>
 <p align="center">
   <b>AI/ML Engineer & GenAI Developer</b> passionate about building <b>Agentic AI, Explainable ML, and Production RAG systems</b>.
@@ -17,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Undergrad:** Final-Year B.Tech in CSE (AI Specialization) at **Bennett University** (Graduating May 2027).
+- 🎓 **Undergrad:** B.Tech in CSE (AI Specialization) at **Bennett University** (Graduating May 2027).
 - 🧠 **Core Focus:** Multi-Agent Systems, Clinical Decision Support Systems, Retrieval-Augmented Generation (RAG), and Model Explainability (TreeSHAP).
 - 🛠️ **Current Work:** End-to-end ML pipelines with **FastAPI**, **Streamlit**, and **Docker**.
 - 🏆 **Beyond Code:** Captain of the **University Kabaddi Team** 🤼 (Love team strategy & on-field communication).
@@ -62,7 +57,7 @@
 | Project | Highlights & Tech Stack | Links |
 | :--- | :--- | :---: |
 | 🩺 **AI Sepsis Early-Warning System** | • AUROC 0.80 on 40k+ ICU patients (PhysioNet)<br>• TreeSHAP interpretability & Agentic RAG clinical guidelines<br>• 24-hr patient trajectory simulator & SOAP note generator | [Repo](https://github.com/sahilbisla01/ai-sepsis-risk-detection) |
-| 📄 **Autonomous Resume-JD Matcher Agent** | • Multi-agent Claude pipeline (ATS Scorer + Bullet Point Tailor)<br>• spaCy deterministic grounded scoring to stop hallucinations<br>• FastAPI microservice + Streamlit interactive dashboard | [Repo](https://github.com/sahilbisla01) |
+| 📄 **Autonomous Resume-JD Matcher Agent** | • Multi-agent Claude pipeline (ATS Scorer + Bullet Point Tailor)<br>• spaCy deterministic grounded scoring to stop hallucinations<br>• FastAPI microservice + Streamlit interactive dashboard | [Profile](https://github.com/sahilbisla01) |
 
 ---
 
@@ -82,5 +77,3 @@
 <p align="center">
   <i>⚡ "Discipline on the sports mat, precision in machine learning algorithms."</i>
 </p>
-
--->
