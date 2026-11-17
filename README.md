@@ -57,7 +57,7 @@
 | Project | Highlights & Tech Stack | Links |
 | :--- | :--- | :---: |
 | 🩺 **AI Sepsis Early-Warning System** | • AUROC 0.80 on 40k+ ICU patients (PhysioNet)<br>• TreeSHAP interpretability & Agentic RAG clinical guidelines<br>• 24-hr patient trajectory simulator & SOAP note generator | [Repo](https://github.com/sahilbisla01/ai-sepsis-risk-detection) |
-| 📄 **Autonomous Resume-JD Matcher Agent** | • Multi-agent Claude pipeline (ATS Scorer + Bullet Point Tailor)<br>• spaCy deterministic grounded scoring to stop hallucinations<br>• FastAPI microservice + Streamlit interactive dashboard | [Repo]([https://github.com/sahilbisla01](https://github.com/sahilbisla01/ai-resume-matcher)) |
+| 📄 **Autonomous Resume-JD Matcher Agent** | • Multi-agent Claude pipeline (ATS Scorer + Bullet Point Tailor)<br>• spaCy deterministic grounded scoring to stop hallucinations<br>• FastAPI microservice + Streamlit interactive dashboard | [Repo](https://github.com/sahilbisla01/ai-resume-matcher) |
 
 ---
 
